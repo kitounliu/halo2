@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["parallelize"],"trait":["CurveAffine","CurveExt","Field"]};
